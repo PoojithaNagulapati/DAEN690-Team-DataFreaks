@@ -35,7 +35,7 @@ Type: Binary, To count the long-lived contrails
 •	Count of Cirrus clouds:
 Type: Int, The numbers count the number of cirrus contrails that transform into clouds.
 
-### Integrated Global Radiosonde Archive (IGRA) Data (Bruce., 2016):
+### Integrated Global Radiosonde Archive (IGRA) Data:
 •	Temperature:
 Type: Int, The temperature in Fahrenheit at the time the image was taken.
 •	Humidity:
@@ -52,3 +52,22 @@ Type: Float, The longitude location of where and which direction the image was t
 Type: Float, The height of the contrails is in meters.
 •	Pressure:
 Type: Float, The pressure at the time of image taken.
+
+### Image Annotation
+
+
+The approach used to collect and annotate picture data in order to train an image-processing model to detect contrails can be found in this research. Hourly photos were taken for six months as part of the experiment, and these photographs served as the main dataset for the contrail detection model. Two unique labels, 'Long-lived' and 'Cirrus,' which identify between long-lived and cirrus contrails, respectively, were applied throughout the manual annotation phase to ensure the correctness of the model training. This dual labeling strategy was essential for developing a thorough knowledge of contrail traits and behaviors. The availability of this carefully annotated dataset is critical for the creation of a contrail detection model that works well and makes a substantial contribution to applications in atmospheric and environmental research. 
+
+### Rectangular Annotation
+
+Rectangular annotations were used in the first annotation strategy since the majority of computer vision models support this format. It's essential to remember that, despite their widespread acceptance, rectangular annotations could not offer the maximum degree of accuracy when contrasted with polygon annotations. Rectangular annotations allow the model to learn everything inside the rectangle, which usually leads to a reasonably good accuracy with some error margin. Rectangular annotation-trained models have a tendency to be more generalist in nature, exhibiting excellent accuracy in detecting items with minute differences.
+
+### Polygon Annotation
+
+
+ 
+The primary benefit of using custom annotations for contrail detection lies in the enhanced accuracy they offer to machine learning models. Custom annotations, such as polygons, prove particularly advantageous when dealing with objects that lack a clearly defined or rigid structure. This approach allows for a higher degree of model fine-tuning, facilitating the detection of concealed structures within cloud formations, thereby broadening the model's capabilities.
+
+<img width="374" alt="image" src="https://github.com/PoojithaNagulapati/DAEN690-Team-DataFreaks/assets/144862312/67c08cc3-8019-4528-a59c-42a683d5dd15">
+
+
