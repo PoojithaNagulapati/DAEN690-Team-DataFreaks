@@ -63,11 +63,15 @@ The primary benefit of using custom annotations for contrail detection lies in t
 
 ### GUI Tool for Sky Image Prediction <br>
 
-<img width="472" alt="image" src="https://github.com/PoojithaNagulapati/DAEN690-Team-DataFreaks/assets/144862312/f56d1e35-f349-4695-89f4-ef3060f8294c">
+<img width="470" alt="image" src="https://github.com/PoojithaNagulapati/DAEN690-Team-DataFreaks/assets/144862312/aa58c089-19f3-4ff4-a286-2967d1bd30c3">
+
+The final product of our findings is the prediction GUI. The contrail prediction GUI offers an intuitive interface equipped with buttons, input fields, and information displays to streamline contrail detection tasks. Its user-friendly design allows for various functions like predicting contrails in newly added images or in the entire selected directory, along with the option to export prediction results. Users can customize contrail detection by setting a confidence threshold via an input box. The GUI generates a comprehensive summary, displaying images with highlighted contrails or overlays indicating detected areas. It also presents a summary table detailing filenames, contrail detection outcomes, confidence levels, and prediction times. This interface ensures a seamless user experience by providing status messages for successful actions or encountered errors. Developed using frameworks like Tkinter in Python, it interacts with the contrail prediction model, processes user inputs, and showcases relevant outputs, enhancing the usability and efficiency of contrail prediction tasks.<br>
 
 <br>
 
 ### Dashboard
+
+This is the visual representation of our dashboard, for more details please refer to Contaril Dashboard_Data Freaks,pbix file.
 
 ![WhatsApp Image 2023-11-28 at 6 29 22 PM](https://github.com/PoojithaNagulapati/DAEN690-Team-DataFreaks/assets/144862312/6c4a9501-7ba5-46d1-8986-9d7abcaf7e89)
 
