@@ -30,12 +30,12 @@ The Ice-Supersaturated Region (ISSR) is the geographic area where contrails prod
 
 ### About the Files Attached to the GitHub
 
-. IGRA Data Set which has the weather details downloaded from the IGRA website.
-. Sky Image data (3).xlsx - Has the data about the Sky Images on the number of contrails present, % cloud cover, date and time.
-. Sort.ipynb - Python code that renames and sorts the image files input to the system.
-. Prediction.ipynb - Python code that has the trained Roboflow ML model and the GUI for contrails detection prediction.
-. Contrail Dashboard_Data Freaks.pbix - Power BI file that contains the dashboard for analysis and visualization.
-. Sky Image Dataset - https://photos.app.goo.gl/Kvn1T2FSNLor9R5p8
+. IGRA Data Set which has the weather details downloaded from the IGRA website.<br>
+. Sky Image data (3).xlsx - Has the data about the Sky Images on the number of contrails present, % cloud cover, date and time.<br>
+. Sort.ipynb - Python code that renames and sorts the image files input to the system.<br>
+. Prediction.ipynb - Python code that has the trained Roboflow ML model and the GUI for contrails detection prediction.<br>
+. Contrail Dashboard_Data Freaks.pbix - Power BI file that contains the dashboard for analysis and visualization.<br>
+. Sky Image Dataset - https://photos.app.goo.gl/Kvn1T2FSNLor9R5p8.<br>
 
 ### Tool/algorithm that used for the project
 Roboflow
