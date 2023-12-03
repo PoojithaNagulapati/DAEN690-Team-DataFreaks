@@ -23,8 +23,8 @@ The Ice-Supersaturated Region (ISSR) is the geographic area where contrails prod
 
 ### Project Objective
 
-.To build an ML algorithm which predicts the presence of contrails in the sky. 
-.To build a dashboard with the charts generated comparing the data collected from IGRA Weather Balloons.
+.To build an ML algorithm which predicts the presence of contrails in the sky. <br>
+.To build a dashboard with the charts generated comparing the data collected from IGRA Weather Balloons. <br>
 
 
 
