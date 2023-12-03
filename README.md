@@ -58,9 +58,16 @@ The primary benefit of using custom annotations for contrail detection lies in t
 
 <img width="374" alt="image" src="https://github.com/PoojithaNagulapati/DAEN690-Team-DataFreaks/assets/144862312/67c08cc3-8019-4528-a59c-42a683d5dd15">
 
-### GUI Tool for Sky Image Prediction
+### GUI Tool for Sky Image Prediction <br>
 
 <img width="472" alt="image" src="https://github.com/PoojithaNagulapati/DAEN690-Team-DataFreaks/assets/144862312/f56d1e35-f349-4695-89f4-ef3060f8294c">
+
+<br>
+
+### Dashboard
+
+![WhatsApp Image 2023-11-28 at 6 29 22 PM](https://github.com/PoojithaNagulapati/DAEN690-Team-DataFreaks/assets/144862312/6c4a9501-7ba5-46d1-8986-9d7abcaf7e89)
+
 
 
 If you have any questions, please contact us via email.
