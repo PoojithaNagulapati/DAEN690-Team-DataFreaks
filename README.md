@@ -16,7 +16,16 @@ Furthermore, the study mentions the flight-shame movement, which aims to reduce 
 The report looks at ways to reduce contrail generation as potential treatments. One method that holds promise is the use of jet fuel made from biomass, which may help to cut soot emissions (Reed, B., 2020, January 17). The report also explores the idea of avoiding flight paths through areas with excessive ice to reduce contrail generation (Fred Pearce., 2019, July 18).
 In conclusion, the CATSR project thoroughly investigates the many facets of contrails, their ecological ramifications, and workable solutions to lessen their environmental effects.
 
-![image](https://github.com/PoojithaNagulapati/DAEN690-Team-DataFreaks/assets/144862312/9a4e98c5-7b22-43a0-bc46-0039b05f52cd)
+### Problem Statement
+
+The distinction between the energy that the Earth absorbs and the energy that it emits is relevant to the concept of radiative forcing. Radiative forcing can appear in two different ways: positively and negatively. Surface temperatures are increased by positive radiative forcing, which contributes to global warming, whereas surface temperatures are decreased by negative radiative forcing (Kaercher., 2018).
+The Ice-Supersaturated Region (ISSR) is the geographic area where contrails produce cirrus clouds. Contrails within ISSRs produce clouds that have a dual effect: they reflect solar energy while also entangling energy released by the Earth.
+
+### Project Objective
+
+.To build an ML algorithm which predicts the presence of contrails in the sky. 
+.To build a dashboard with the charts generated comparing the data collected from IGRA Weather Balloons.
+
 
 
 ### About the Files Attached to the GitHub
@@ -48,6 +57,10 @@ Rectangular annotations were used in the first annotation strategy since the maj
 The primary benefit of using custom annotations for contrail detection lies in the enhanced accuracy they offer to machine learning models. Custom annotations, such as polygons, prove particularly advantageous when dealing with objects that lack a clearly defined or rigid structure. This approach allows for a higher degree of model fine-tuning, facilitating the detection of concealed structures within cloud formations, thereby broadening the model's capabilities.
 
 <img width="374" alt="image" src="https://github.com/PoojithaNagulapati/DAEN690-Team-DataFreaks/assets/144862312/67c08cc3-8019-4528-a59c-42a683d5dd15">
+
+### GUI Tool for Sky Image Prediction
+
+<img width="472" alt="image" src="https://github.com/PoojithaNagulapati/DAEN690-Team-DataFreaks/assets/144862312/f56d1e35-f349-4695-89f4-ef3060f8294c">
 
 
 If you have any questions, please contact us via email.
