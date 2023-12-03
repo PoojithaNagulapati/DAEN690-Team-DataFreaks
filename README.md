@@ -71,3 +71,10 @@ The primary benefit of using custom annotations for contrail detection lies in t
 <img width="374" alt="image" src="https://github.com/PoojithaNagulapati/DAEN690-Team-DataFreaks/assets/144862312/67c08cc3-8019-4528-a59c-42a683d5dd15">
 
 
+If you have any questions, please contact us via email.
+pnagulap@gmu.edu
+sshahulh@gmu.edu
+amadasu@gmu.edu
+vchintal@gmu.edu
+
+
