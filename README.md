@@ -11,7 +11,7 @@ This research endeavor is motivated by the growing concern regarding global warm
 Our dataset for this project is the images taken from the sky over a specific area during a specific time for several periods of time. The process of picturing the sky is happening often, but we only choose several time periods. The dataset was made by the images which we need to transform into data using the image processing algorithms. The dataset was the image of the sky which was taken for every hour. This is taken to discuss and analyze the traffic controls and to detect the contrail formation. The dataset we planned to create will have the time, date, presence/absence of contrails, altitude of contrails, temperature of the area at the time of contrails, and altitude. These are the data that we have to render from the images.
 The future work with the datasets will be on further procedures.
 
-Field Description
+### Field Description
 
 Sky Images:
 •	Pictures:
