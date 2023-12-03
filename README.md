@@ -1,6 +1,10 @@
-# DAEN690-Team-DataFreaks
+# DLNN For Contrail Avoidance Assessment (DCAA)
 
-## DLNN For Contrail Avoidance Assessment (DCAA)
+<br>
+
+### DAEN690
+
+Team Data Freaks: Poojitha Nagulapati, Sarfraaz Shahul Hammed, Akhil Madasu, Sriven Sachit Kallepally, Venkat Sai Mudiraj Chintala.
 
 ### Abstract
 
