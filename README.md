@@ -71,7 +71,7 @@ The final product of our findings is the prediction GUI. The contrail prediction
 
 ### Dashboard
 
-This is the visual representation of our dashboard, for more details please refer to Contaril Dashboard_Data Freaks,pbix file.
+This is the visual representation of our dashboard, for more details please refer to Contrail Dashboard_Data Freaks.pbix file.
 
 ![WhatsApp Image 2023-11-28 at 6 29 22 PM](https://github.com/PoojithaNagulapati/DAEN690-Team-DataFreaks/assets/144862312/6c4a9501-7ba5-46d1-8986-9d7abcaf7e89)
 
